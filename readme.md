@@ -8,6 +8,6 @@ dependencias:
 * Font-Awesome
 * Google-font
 
-link:https://github.com/ArianaHidalgo/BarberShop
-================================================
+link:https://arianahidalgo.github.io/BarberShop/
+------------------------------------------------
  
