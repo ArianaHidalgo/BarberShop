@@ -1,0 +1,88 @@
+.header nav {
+	background-color: black;
+	height: 60px;
+	
+}
+.header nav img{
+	width: 100px;
+	float: left;
+	position: relative;
+	left: 170px;
+	top:10px;
+}
+.header nav ul{
+	float: right;
+}
+.header nav ul li {
+	font-size: 15px;
+	padding:15px;
+	color:white;
+	list-style-type: none;
+	float: right;
+	font-family:Roboto;
+	position: relative;
+	right: 120px;
+}
+.jumbotron{
+	background-image: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.jumbotron h1{
+	text-align: center;
+    color:white;
+	font-family: Playfair Display;
+}
+.jumbotron i{
+	color:white;
+	font-size: 20px;
+	position: relative;
+	left: 50%;
+}
+.articulo .row i{
+	font-size: 18px;
+	float: right;
+	margin-top: 15px;
+}
+.articulo .row h3{
+	font-size: 15px;
+}
+.articulo .contenido i{
+	font-size: 30px;
+	position: relative;
+	left: 30%;
+	padding-right: 30px;
+	margin: 35px 0;
+}
+.articulo{
+	margin: 0 150px 0 150px;
+}
+.autor{
+	border-top: 2px solid gray;
+}
+.autor p{
+	text-align: center;
+	margin: 30px;
+  }
+img{
+   width: 40%;
+   float: right;
+}
+.autor h2,h4{
+	font-size: 14px;
+}
+.footer{
+	text-align: center;
+}
+.footer img{
+	width: 15%;
+	position: relative;
+	right: 45%;
+	padding:15px;
+	
+}
+.footer .panel-body{
+	background-color: black;
+
+}
